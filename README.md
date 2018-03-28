@@ -2,7 +2,7 @@
 
 # Index
 ---
-- [About](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/README.md)
+- [About](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/About.md)
 - [Team_profile](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Team_profile.md)
 - [Investigation](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Investigation.md)
 - [Vision](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Vision.md)
