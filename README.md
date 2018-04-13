@@ -11,7 +11,7 @@
   - [Usecase Diagram](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Usecase_Diagram.md)
 - Design
   - 7.1 UI design
-   - [xx 用例 UI设计]()
+    -[xx 用例 UI设计]()
 - X1 meet_recording
   - [Inception meeting(18/03/25)](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Meet_recording.md)
 - X2 Tech/Work Report
