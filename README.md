@@ -18,7 +18,7 @@
   - [Inception meeting(18/03/25)](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Meet_recording.md)
 - X2 Tech/Work Report
   - [15331204-林威宏-github：Git 常用指令](https://blog.csdn.net/linwh8/article/details/79779364)
-  - [15331408-张宇飞-title]()
+  - [15331408-张宇飞-墨刀UI设计器的使用入门](https://blog.csdn.net/qq_40283873/article/details/79952023)
   - [15331410-张泽坤-title](https://blog.csdn.net/kunailin/article/details/79952796)
-  - [15331411-张泽棉-title]()
+  - [15331411-张泽棉-spring和springMVC框架](https://blog.csdn.net/zzmian/article/details/79952698)
   - [15331412-张振东-Vue.js 学习笔记](https://shimo.im/docs/30nN5420V7syAOV1/)
