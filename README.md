@@ -13,7 +13,7 @@
   - 7.1 UI design
   - [UI设计]()
 - 生产规范与指南
-  - [代码规范]()
+  - [代码规范](./doc/Code_specification.md)
 - X1 meet_recording
   - [Inception meeting(18/03/25)](https://github.com/Movie-ticket-Sale-System/DashBoard/blob/master/doc/Meet_recording.md)
 - X2 Tech/Work Report
