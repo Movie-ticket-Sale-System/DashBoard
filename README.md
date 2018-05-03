@@ -9,9 +9,13 @@
 - [Product Backlog](./doc/Product_Backlog.md)
 - Requirement specification
   - [Usecase Diagram](./doc/Usecase_Diagram.md)
+  - [Use Cases](./doc/UseCase.md)
+  - [Domain Model](./doc/Domain Model.md)
 - Design
   - 7.1 UI design
-  - [UI设计]()
+  - [UI设计](https://github.com/Movie-ticket-Sale-System/UI-Design)
+  - 7.2 Database design
+  - [EM Model](./doc/ER Model.md)
 - 生产规范与指南
   - [代码规范](./doc/Code_specification.md)
 - X1 meet_recording
