@@ -9,8 +9,7 @@
 - [Product Backlog](./doc/Product_Backlog.md)
 - Requirement specification
   - [Usecase Diagram](./doc/Usecase_Diagram.md)
-  
-  - [Use Cases](./doc/UseCase.md)
+  - [Use Cases](./doc/UseCase.md)
   - [Domain Model](./doc/Domain_Model.md)
 - Design
   - 7.1 UI design
