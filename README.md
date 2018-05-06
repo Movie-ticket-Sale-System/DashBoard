@@ -11,13 +11,16 @@
   - [Usecase Diagram](./doc/Usecase_Diagram.md)
   - [Use Cases](./doc/UseCase.md)
   - [Domain Model](./doc/Domain_Model.md)
+  - [State Model](./doc/State_Model.md)
 - Design
   - 7.1 UI design
   - [UI设计](https://github.com/Movie-ticket-Sale-System/UI-Design)
   - 7.2 Database design
   - [EM Model](./doc/ER_Model.md)
+  - 7.3 API设计
 - 生产规范与指南
   - [代码规范](./doc/Code_specification.md)
+  - [REST API 设计规范](./doc/REST_API.md)
 - X1 meet_recording
   - [Inception meeting(18/03/25)](./doc/Meet_recording.md)
 - X2 Tech/Work Report
