@@ -34,3 +34,4 @@
   - [15331411-张泽棉-spring和springMVC框架](https://blog.csdn.net/zzmian/article/details/79952698)
   - [15331412-张振东-Vue.js 学习笔记](https://shimo.im/docs/30nN5420V7syAOV1/)
 - XX **建模练习**XX1 XX应用XX2 建模要求XX3 建模者答案与评价
+- 测试是否有权限
