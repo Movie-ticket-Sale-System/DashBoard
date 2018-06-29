@@ -4,5 +4,5 @@
 
 
 
-![](https://github.com/Movie-ticket-Sale-System/DashBoard/raw/master/image/lesson7_team_ER_model.png)
+![](https://github.com/Movie-ticket-Sale-System/DashBoard/raw/master/image/系统ER模型.jpg) 
 
