@@ -15,7 +15,7 @@
   - [6.5、System Sequence Diagram（功能模型）]()
   - [6.6、Supplementary Requirement（补充需求）]()
 - 7、Design
-  - 7.1、UI design
+  - 7.1、[UI design](../UI-Design/README.md)
     - 用例 UI设计
   - 7.2、Database design
     - 7.2.1、用户及权限系统数据库设计
