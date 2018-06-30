@@ -16,12 +16,12 @@
   - [6.6、Supplementary Requirement（补充需求）]()
 - 7、Design
   - 7.1、UI design
-    - [UI设计](https://github.com/Movie-ticket-Sale-System/UI-Design/README.md)
+    - [UI设计](./doc/UI_Design.md)
   - 7.2、Database design
     - 7.2.1、用户及权限系统数据库设计
     - 7.2.2、子系统数据课设计
     - 7.2.x、第三方数据评审结果
-  - 7.3、API 设计
+  - [7.3、API设计文档](./doc/API.md)
   - 7.4、Software Architecture Document
   - 7.5、Usecase design
     - 7.5.1、Case design
@@ -39,11 +39,13 @@
   - [15331410-Js和vue技术学习报告](https://blog.csdn.net/kunailin/article/details/79952796)
   - [15331411-spring和springMVC框架](https://blog.csdn.net/zzmian/article/details/79952698)
   - [15331412-Vue.js 学习笔记](https://shimo.im/docs/30nN5420V7syAOV1/)
-  
+
 - X3 Final Report
   - [15331204-title]()
   - [15331408-title]()
-  - [15331410-title]()
+
+
+  - [15331410-ZhangZekun](./doc/Final_Report_15331410.md)
   - [15331411-title]()
   - [15331412-title]()
 
