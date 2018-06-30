@@ -39,11 +39,11 @@
 
 **Dashboard**
 
-![](https://github.com/Movie-ticket-Sale-System/DashBoard/raw/master/image/linwh_contri1.jpg) 
+![](https://github.com/Movie-ticket-Sale-System/DashBoard/raw/master/image/linwh_contri1.png) 
 
-**MTSS_Client **
+**MTSS_Client**
 
-![](https://github.com/Movie-ticket-Sale-System/DashBoard/raw/master/image/linwh_contri2.jpg)
+![](https://github.com/Movie-ticket-Sale-System/DashBoard/raw/master/image/linwh_contri2.png)
 
 ### 自认为最有价值的工作清单
 
