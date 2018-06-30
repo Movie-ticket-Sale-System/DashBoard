@@ -33,7 +33,7 @@
 
 ## Git 统计报告(ZhangZekun)
 
-![](.\..\image\Client_Commit_Zzk.png)
+![](https://raw.githubusercontent.com/Movie-ticket-Sale-System/DashBoard/master/image/Client_Commit_Zzk.PNG)
 
 
 
