@@ -21,7 +21,7 @@
     - 7.2.1、用户及权限系统数据库设计
     - 7.2.2、子系统数据课设计
     - 7.2.x、第三方数据评审结果
-  - 7.3、API 设计
+  - [7.3、API设计文档](./doc/Code_specification.md)
   - 7.4、Software Architecture Document
   - 7.5、Usecase design
     - 7.5.1、Case design
