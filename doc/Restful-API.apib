@@ -1,0 +1,196 @@
+FORMAT: 1A
+HOST: http://localhost:8000/api/
+
+# movie-ticket-system
+
+Polls is a simple API allowing consumers to view polls and vote in them.
+
+## User [/users]
+
+### Register [POST /users/register]
+
++ Request (application/json)
+
+  + Body
+
+    {
+      "user_id":"test123",
+      "nike_name":"test",
+      "passqord":"12345678",
+      "email":"test@163.com",
+      "phone":"12345679101"
+    }
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "status":"OK",
+      "message":"register success",
+    }
+
+
+### Login [POST /users/login]
+
++ Request(application/json)
+
+  + Body
+
+    {
+      "user_id": "test123",
+      "password": "12345678"
+    }
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "status":"OK",
+      "message":"login success"
+    }
+
+### Get user by ID [GET /users/{user_id}]
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "status":"OK",
+      "message":"get user success",
+      "user":{
+            "username":"test1",
+            "email":"test1@163.com",
+            "phone":"12345679101"
+      }
+    }
+
+### Logout [GET /users/{user_id}/logout]
+
++ Response 200 (application/json)
+  + Body
+  
+    {
+      "status":"OK",
+      "message":"logout success"
+    }
+
+
+## Order [/orders]
+
+### Create an order [POST /orders/create]
+
++ Request(application/json)
+
+  + Body
+
+    {
+      "user_id": "test123",
+      "ticket_id":"1",
+      "price":"100元",
+      "pay_method":"微信"
+    }
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "order_id":"1",
+      "status":"OK",
+      "message":"create success"
+    }
+
+### Get order by ID [GET /orders?{order_id}=]
+
++ Parameters
+
+  + order_id (string, required)
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "status":"OK",
+      "message":"get order successfully",
+      "order":{
+            "order_id":"1",
+            "user_id":"test123",
+            "ticket_id":"1",
+            "price":"100元",
+            "pay_method":"微信"
+      }
+    }
+
+### Delete an order [DELETE /orders/{order_id}/delete]
+
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "order_id":"1",
+      "status":"OK",
+      "message":"create success"
+    }
+
+## Ticket [/tickets]
+
+### Create an ticket [POST /tickets/create]
++ Request(application/json)
+
+  + Body
+
+    {
+      "movie_id":"1",
+      "movie_name":"头号玩家",
+      "cinema_id":"1",
+      "cinema_name":"金逸影城",
+      "user_id": "test123",
+      "price":"100元",
+      "time_create":"2018-05-05 10:00:00"
+    }
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "ticket_id":"1",
+      "status":"OK",
+      "message":"create success"
+    }
+    
+### Get an ticket [GET /tickets/{id}]
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "ticket_id":"1",
+      "status":"OK",
+      "message":"create success",
+      "movie_id":"1",
+      "movie_name":"头号玩家",
+      "cinema_id":"1",
+      "cinema_name":"金逸影城",
+      "user_id": "test123",
+      "price":"100元",
+      "time_create":"2018-05-05 10:00:00"
+    }
+    
+### Delete an ticket [DELETE /tickets/{ticket_id}/delete]
+
++ Response 200 (application/json)
+
+  + Body
+
+    {
+      "status":"OK",
+      "message":"delete success"
+    }
