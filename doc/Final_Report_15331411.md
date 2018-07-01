@@ -26,6 +26,12 @@
 
 这次项目第一次从头到尾地经历一次比较完整全面的开发过程，通过对文档的编写了解了一个完整的项目的迭代开发过程，具体的代码规范，设计步骤和思路等。我明白了除了要掌握一定的硬性技术外，还需要学会如何规范编写合理易懂的文档，使项目具有可读性，提高开发效率。这次项目开发让我获益匪浅。
 
+#### 四. Git统计报告
+
+![](https://raw.githubusercontent.com/Movie-ticket-Sale-System/DashBoard/master/image/Server_Commit_Zzm.png)
+
+
+
 
 
 ####  
